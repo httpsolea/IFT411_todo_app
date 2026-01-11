@@ -2,6 +2,12 @@
 
 A new Flutter project.
 
+## Screenshots
+
+| Intro Screen | Tasks Page |
+
+| ![Intro](lib/assets/Screenshot_1768155174.png) | ![Tasks](lib/assets/Screenshot_1768155157.png) |
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
